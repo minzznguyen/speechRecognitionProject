@@ -1,0 +1,3 @@
+target phrase: ball charge
+itr, corr, lev dist 
+1, 1.0000, 16
